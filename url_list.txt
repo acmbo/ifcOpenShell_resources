@@ -1,0 +1,3 @@
+
+https://github.com/IfcOpenShell/IfcOpenShell
+https://github.com/tpaviot/pythonocc-demos
